@@ -1,1 +1,5 @@
 read id, sname, phone number, address
+System.out.println("Student ID");
+System.out.println("Student Name");
+System.out.println("Student phone number");
+System.out.println("Student Address");
